@@ -1,0 +1,33 @@
+C:\Users\konni\source\repos\Harjoitustyö\Harjoitustyö\bin\Debug\Harjoitustyö.exe.config
+C:\Users\konni\source\repos\Harjoitustyö\Harjoitustyö\bin\Debug\Harjoitustyö.exe
+C:\Users\konni\source\repos\Harjoitustyö\Harjoitustyö\bin\Debug\Harjoitustyö.pdb
+C:\Users\konni\source\repos\Harjoitustyö\Harjoitustyö\obj\Debug\Harjoitustyö.csprojAssemblyReference.cache
+C:\Users\konni\source\repos\Harjoitustyö\Harjoitustyö\obj\Debug\Harjoitustyö.Properties.Resources.resources
+C:\Users\konni\source\repos\Harjoitustyö\Harjoitustyö\obj\Debug\Harjoitustyö.csproj.GenerateResource.cache
+C:\Users\konni\source\repos\Harjoitustyö\Harjoitustyö\obj\Debug\Harjoitustyö.csproj.CoreCompileInputs.cache
+C:\Users\konni\source\repos\Harjoitustyö\Harjoitustyö\obj\Debug\Harjoitustyö.exe
+C:\Users\konni\source\repos\Harjoitustyö\Harjoitustyö\obj\Debug\Harjoitustyö.pdb
+C:\Users\konni\source\repos\Harjoitustyö\Harjoitustyö\obj\Debug\Harjoitustyö.Harjoitustyo.resources
+C:\Users\konni\Documents\Harjoitustyö\Harjoitustyö\Harjoitustyö\bin\Debug\Harjoitustyö.exe.config
+C:\Users\konni\Documents\Harjoitustyö\Harjoitustyö\Harjoitustyö\bin\Debug\Harjoitustyö.exe
+C:\Users\konni\Documents\Harjoitustyö\Harjoitustyö\Harjoitustyö\bin\Debug\Harjoitustyö.pdb
+C:\Users\konni\Documents\Harjoitustyö\Harjoitustyö\Harjoitustyö\obj\Debug\Harjoitustyö.csprojAssemblyReference.cache
+C:\Users\konni\Documents\Harjoitustyö\Harjoitustyö\Harjoitustyö\obj\Debug\Harjoitustyö.Harjoitustyo.resources
+C:\Users\konni\Documents\Harjoitustyö\Harjoitustyö\Harjoitustyö\obj\Debug\Harjoitustyö.Properties.Resources.resources
+C:\Users\konni\Documents\Harjoitustyö\Harjoitustyö\Harjoitustyö\obj\Debug\Harjoitustyö.csproj.GenerateResource.cache
+C:\Users\konni\Documents\Harjoitustyö\Harjoitustyö\Harjoitustyö\obj\Debug\Harjoitustyö.csproj.CoreCompileInputs.cache
+C:\Users\konni\Documents\Harjoitustyö\Harjoitustyö\Harjoitustyö\obj\Debug\Harjoitustyö.exe
+C:\Users\konni\Documents\Harjoitustyö\Harjoitustyö\Harjoitustyö\obj\Debug\Harjoitustyö.pdb
+C:\Users\konni\Downloads\Harjoitustyö_Kaisa-Mari-Salmi_Johanna-Pulli (1)\Harjoitustyö_Salmi_Pulli\Harjoitustyö\obj\Debug\Harjoitustyö.csprojAssemblyReference.cache
+C:\Users\konni\Downloads\Harjoitustyö_Kaisa-Mari-Salmi_Johanna-Pulli (1)\Harjoitustyö_Salmi_Pulli\Harjoitustyö\obj\Debug\Harjoitustyö.exe
+C:\Users\konni\Downloads\Harjoitustyö_Kaisa-Mari-Salmi_Johanna-Pulli (1)\Harjoitustyö_Salmi_Pulli\Harjoitustyö\obj\Debug\Harjoitustyö.pdb
+C:\Users\konni\Documents\TÄMÄ\Harjoitustyö_Salmi_Pulli\Harjoitustyö\obj\Debug\Harjoitustyö.csprojAssemblyReference.cache
+C:\Users\konni\Documents\TÄMÄ\Harjoitustyö_Salmi_Pulli\Harjoitustyö\obj\Debug\Harjoitustyö.exe
+C:\Users\konni\Documents\TÄMÄ\Harjoitustyö_Salmi_Pulli\Harjoitustyö\obj\Debug\Harjoitustyö.pdb
+C:\Users\konni\Documents\TÄMÄ\Harjoitustyö_Salmi_Pulli\Harjoitustyö\bin\Debug\Harjoitustyö.exe.config
+C:\Users\konni\Documents\TÄMÄ\Harjoitustyö_Salmi_Pulli\Harjoitustyö\bin\Debug\Harjoitustyö.exe
+C:\Users\konni\Documents\TÄMÄ\Harjoitustyö_Salmi_Pulli\Harjoitustyö\bin\Debug\Harjoitustyö.pdb
+C:\Users\konni\Documents\TÄMÄ\Harjoitustyö_Salmi_Pulli\Harjoitustyö\obj\Debug\Harjoitustyö.Harjoitustyo.resources
+C:\Users\konni\Documents\TÄMÄ\Harjoitustyö_Salmi_Pulli\Harjoitustyö\obj\Debug\Harjoitustyö.Properties.Resources.resources
+C:\Users\konni\Documents\TÄMÄ\Harjoitustyö_Salmi_Pulli\Harjoitustyö\obj\Debug\Harjoitustyö.csproj.GenerateResource.cache
+C:\Users\konni\Documents\TÄMÄ\Harjoitustyö_Salmi_Pulli\Harjoitustyö\obj\Debug\Harjoitustyö.csproj.CoreCompileInputs.cache
